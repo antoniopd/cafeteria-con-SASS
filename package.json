@@ -1,0 +1,22 @@
+{
+  "name": "cafeteria",
+  "version": "1.0.0",
+  "description": "Practicando SASS, Gulp, CSS Grid y mucho más.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniopd/cafeteria-con-SASS.git"
+  },
+  "author": "antoniopd https://www.linkedin.com/in/antonio-pd/",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoniopd/cafeteria-con-SASS/issues"
+  },
+  "homepage": "https://github.com/antoniopd/cafeteria-con-SASS#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
